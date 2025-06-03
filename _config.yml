@@ -1,0 +1,14 @@
+title: "Kathy's Blog"
+description: "Thoughts, projects, and notes."
+author:
+  name: "Kathy Li"
+url: "https://yyune.github.io"
+baseurl: "" # Leave empty if publishing to root
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
